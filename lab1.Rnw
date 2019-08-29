@@ -51,10 +51,12 @@ To produce a title page, you may include title, author, date followed by the {\t
 \author{Your Name}
 \date{\today}
 \maketitle
+
+\section{Introduction}
 \end{verbatim}
 
-\subsection{Adding Structure}
-Several common \LaTeX commands are available under the Format menu, which include section, subsection, bold, italic, typewriter font, the verbatim environment and different types of lists to help you get started.
+\subsection*{Adding Structure}
+Several common \LaTeX commands are available under the Format menu, which include section, subsection, bold, italic, typewriter font, the verbatim environment and different types of lists to help you get started.  For this document I chose not to number the sections and subsections;  to suppress numbering add a * after section; this applies to other numbered environments  as we will see with equations.
 
 \subsection*{Equations}
 For equations, you may use double \$\$ to show the begin and end of an equation that will not be numbered or
@@ -158,4 +160,10 @@ $$
 $$
 \end{comment}
 \end{verbatim}
+
 \end{document}
+\section*{Creating a New Document}
+
+To start a new Sweave document, go to {\tt File New} and select "R Sweave". This will provide a basic Sweave template. From here, you can enter text and LaTeX commands and \R chunks into your document.
+
+
