@@ -1,4 +1,4 @@
-# STA521 Lab1  8/30/2019
+# STA 721 Lab1  8/30/2019
 
 ## Overview
  
