@@ -19,7 +19,7 @@ A couple things to get everyone on the same page,
 
   * Go to https://github.com/join
   * Enter your information
-  * Pick the Unlimited public repositories for free. plan
+  
 
 Ready?
 
@@ -32,8 +32,8 @@ If you have a StatSci account,
     * Select "Sweave Rnw files using Knitr"
     * Set "Preview PDF" with "System Viewer"
    3) Clone the repository through the following link  
-   and accept the invitation.  This will create a repository  https://github.com/STA721-F19/lab1-YOURGITHUBUSERNAME
-   4) Create a new Project.  In RStudio, click on New Project in the file menu.  Select Version Control, then Git. Enter https://github.com/STA721-F19/lab1-YOURGITHUBUSERNAME.git (replace with your username on github) in the  Repository URL field, provide a name for the project, e.g. 'lab1', and select a directory to save your work, e.g. Lab1    We suggest that you make a folder for STA721 to save your work for the course.
+   and accept the invitation.  This will create a repository  https://github.com/STA721-F19/lab1
+   4) Create a new Project.  In RStudio, click on New Project in the file menu.  Select Version Control, then Git. Enter https://github.com/STA721-F19/lab1.git  in the  Repository URL field, provide a name for the project, e.g. 'lab1', and select a directory to save your work, e.g. Lab1    We suggest that you make a folder for STA721 to save your work for the course.
   5) On the lower right panel in RStudio, click on the Files tab. You should see a listing of the files in your directory. Click on `lab1.Rnw` to open it in the RStudio editor and then follow instructions there.  
    
   
