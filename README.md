@@ -24,7 +24,7 @@ A couple things to get everyone on the same page,
 Ready?
 
 
-## Start R-Studio
+## Start R Studio
 
 If you have a StatSci account,   
    1) Open RStudio on Smith  [http://smith.stat.duke.edu:8787](http://smith.stat.duke.edu:8787) and login with your Duke netid and password.   If you are unable to login to smith in lab, please see the TA or instructor.  Email clyde@duke.edu and provide your Full Name and netid so that your account can be created.
