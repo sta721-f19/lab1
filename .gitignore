@@ -35,3 +35,9 @@ vignettes/*.pdf
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
 .Rproj.user
+
+lab1.Proj
+lab1.log
+lab1.tex
+lab1-concordance.tex
+lab1.synctex.gz
